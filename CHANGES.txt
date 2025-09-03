@@ -1,1 +1,26 @@
-TODO: List here all the changes you made to given template to adapt it to your needs
+TODO:
+
+New colors and arts
+/ 10 pts
+Responsiveness
+/ 15 pts
+Real text
+/ 10 pts
+Adapting the template to one's need
+/ 15 pts
+Ten changes
+/ 20 pts
+Overall quality
+/ 10 pts
+Clean indented, and well formatted code
+/ 10 pts
+Deployment
+/ 10 pts
+
+
+Make the given portfolio your own by replacing all of its fake text with real text about you and your projects. 
+Change the colors to something else of your choosing. You must keep the gradient effect.
+Change the art images with new ones that are more fitting to your portfolio and the new color scheme you choose. Generate free illustrations based on a given color at https://www.manypixels.co/galleryLinks to an external site.. The wavy parts can be generated given a color at https://getwaves.ioLinks to an external site.. Other images can be downloaded from https://unsplash.comLinks to an external site.: image preprocessing (resizing, cropping, ...) might be needed to make these images work for your portfolio. .
+Add two new sections of your choice to the page with Bootstrap components/utilities not used by the given template.
+Make sure that every section in the page is responsive and support the sm, md, and lg bootstrap breakpoints. Responsiveness should be reflected in not only the number of grid columns displayed but also in reducing text/image sizes and spacing given the device size.
+In addition to the above changes, make at least ten changes to the existing components/utilities of the given template to make more your own.  In the CHANGES.txt file, list what these changes are and your reason(s) for making them (what value do they add; how they make the template more customized to your portfolio needs). 
